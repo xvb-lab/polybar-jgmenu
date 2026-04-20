@@ -1,0 +1,30 @@
+# Position
+position_mode      = fixed
+menu_halign        = left
+menu_valign        = top
+menu_margin_x      = 0
+menu_margin_y      = 24
+menu_width         = 200
+
+# Colors - classic white menu
+color_menu_bg      = #ffffff 100
+color_menu_fg      = #1e1e1e 100
+color_menu_border  = #c0c0c0 100
+color_norm_bg      = #ffffff 100
+color_norm_fg      = #1e1e1e 100
+color_sel_bg       = #0076ce 100
+color_sel_fg       = #ffffff 100
+color_sep_fg       = #d0d0d0 100
+
+# Layout
+menu_padding_top    = 4
+menu_padding_bottom = 4
+menu_radius         = 0
+menu_border         = 1
+item_height         = 22
+item_padding_x      = 12
+
+# Font
+font = Roboto 10
+icon_size = 16
+csv_cmd = ~/.config/jgmenu/menu.sh
